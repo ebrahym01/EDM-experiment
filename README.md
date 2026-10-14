@@ -2,6 +2,6 @@ Code and Data for "Evidence of Nonlinear Dynamics in Harmful Algal Blooms from E
 
 Description:
 
-This repository contains the code for the manuscript: "Are Harmful Algal Blooms Chaotic? Evidence from Empirical Dynamic Modeling and Chaos Analysis using Chlorophyll-a as an Indicator"s.
+This repository contains the code for the manuscript: "Evidence of Nonlinear Dynamics in Harmful Algal Blooms from Empirical Dynamic Modeling of Chlorophyll-a".
 
 Authors: Ibrahim Busari, Debabrata Sahoo, Bellie Sivakumar and Sumit Sen
